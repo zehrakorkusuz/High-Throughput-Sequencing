@@ -1,0 +1,3 @@
+https://github.com/tseemann/prokka
+
+add bioconda channel not to get an error. https://bioconda.github.io/y
